@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" />
+  <br><br>
+</p>
 
-<!--
-**TeamNexis/TeamNexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 TeamNexis — A One-Man Tech Force
 
-Here are some ideas to get you started:
+Welcome to **TeamNexis**, a personal innovation space run by me — **Siddhartha**, a Class 11 student passionate about AI, code, and the endless possibilities of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm currently preparing for IIT JEE while actively exploring the world of programming and artificial intelligence. What started as a hobby has become a mission — to build powerful, meaningful, and creative tech projects.
+
+From smart bots to Arduino setups, I do it all solo under the banner of **TeamNexis** — because every big vision starts with one mind daring to think different.
+
+---
+
+## 🔍 Interests and Hobbies
+
+- 💻 Coding (Python, C++)
+- ⚙️ Algorithmic Problem Solving
+- 🧠 AI & Automation Projects
+- 🏸 Badminton & 🎮 Esports — for speed, focus & fun!
+
+---
+
+## 🛠️ Skills
+
+- Programming Languages: **Python**, **C++**
+- Version Control: **Git**
+- Rapid Learning & Solo Project Execution
+- Arduino + Hardware Project Experience
+
+---
+
+## 📬 Contact
+
+Want to collaborate, chat, or just share ideas?
+
+- 📧 Email: [stradiogamer@gmail.com](mailto:stradiogamer@gmail.com)
+- 🧠 GitHub: [Cyber-Team1](https://github.com/TeamNexis)
+
+---
+
+> “TeamNexis isn’t a company — it’s a concept. A place where one developer builds with the intensity of a team.”
+
