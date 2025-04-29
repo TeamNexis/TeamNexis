@@ -40,7 +40,7 @@ From smart bots to Arduino setups, I do it all solo under the banner of **TeamNe
 Want to collaborate, chat, or just share ideas?
 
 - 📧 Email: [stradiogamer@gmail.com](mailto:stradiogamer@gmail.com)
-- 🧠 GitHub: [Cyber-Team1](https://github.com/TeamNexis)
+- 🧠 GitHub: [TeamNexis](https://github.com/TeamNexis)
 
 ---
 
